@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "whoer.net",
         "showmyip.com",
         "ipaddress.com"
       ]
