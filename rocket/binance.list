@@ -1,4 +1,5 @@
 # 内容：币安交易所
+DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.charity
 DOMAIN-SUFFIX,binance.cloud
@@ -31,5 +32,7 @@ DOMAIN-SUFFIX,bnappzh.co
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.co
 DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,saasexch.io
